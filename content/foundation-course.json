@@ -13,7 +13,7 @@
       "evidence_card_ids": [
         "attention-return-001"
       ],
-      "soundscape": "data/files/Nervous System Reset  432 Hz + Theta Wave Ambient Meditation Music for Deep Calm.mp3",
+      "soundscape": "data/files/ambient-soundscape.mp3",
       "min_session_minutes": 5,
       "max_session_minutes": 20,
       "script_blocks": [
@@ -337,7 +337,7 @@
       "evidence_card_ids": [
         "attention-return-001"
       ],
-      "soundscape": "data/files/Nervous System Reset  432 Hz + Theta Wave Ambient Meditation Music for Deep Calm.mp3",
+      "soundscape": "data/files/ambient-soundscape.mp3",
       "min_session_minutes": 5,
       "max_session_minutes": 20,
       "script_blocks": [

@@ -63,7 +63,7 @@ class TeachingCardTests(unittest.TestCase):
         self.assertEqual(brief.id, "foundation-30-day-01")
         self.assertEqual(brief.title, lesson.title)
         self.assertEqual(brief.teaching_point, lesson.objective)
-        self.assertIn("Each return is one small act of training", brief.explanation)
+        self.assertIn("Each return is one small act of practice", brief.explanation)
         self.assertIn("next breath", brief.return_cue)
 
 

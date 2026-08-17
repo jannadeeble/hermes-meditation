@@ -59,7 +59,7 @@ class GenerationResult:
         self.published = published
 
 
-DEFAULT_SOUNDSCAPE = "data/files/Nervous System Reset  432 Hz + Theta Wave Ambient Meditation Music for Deep Calm.mp3"
+DEFAULT_SOUNDSCAPE = "data/files/ambient-soundscape.mp3"
 
 
 def _resolve_soundscape(

@@ -119,7 +119,7 @@ class MeditationServiceTests(unittest.TestCase):
 
         self.assertIsNotNone(writer.teaching)
         self.assertEqual(writer.teaching.teaching_point, lesson.objective)
-        self.assertIn("Each return is one small act of training", writer.teaching.explanation)
+        self.assertIn("Each return is one small act of practice", writer.teaching.explanation)
         self.assertIn("next breath", writer.teaching.return_cue)
 
     def test_one_off_writer_uses_topic_brief_avoids_recent_points_and_records_its_choice(self) -> None:

@@ -4,7 +4,7 @@ A chat-driven guided meditation generator for [Hermes Agent](https://hermes-agen
 
 Say what you need in plain words ("10-minute anxiety meditation before a meeting") and the generator writes a fresh script, checks it against safety rules, speaks it with a voice already configured in Hermes, renders it to an exact-length audio file with real pauses, and returns a link or a local file.
 
-Two meditations are never identical. Every session is written fresh from a knowledge bank of science, psychological topics, teaching points, and practices.
+Two meditations are never identical. Every session is written fresh from a knowledge bank of teaching points, practices, and plain-language topics.
 
 ## What you need
 
@@ -47,7 +47,7 @@ meditation meditation --topic sleep --minutes 5 --situation "lying in bed worryi
 
 ### Course mode
 
-The repo also ships a 30-day foundation course (`meditation course --day N`). Days have fixed objectives and evidence cards; by default each render writes fresh words within the day's practice type (`--no-llm` uses the saved reviewed script).
+The repo also ships a 30-day foundation course (`meditation course --day N`). Days have fixed objectives and reviewed teaching points; by default each render writes fresh words within the day's practice type (`--no-llm` uses the saved reviewed script).
 
 ## Environment
 
@@ -70,7 +70,7 @@ The writer enforces these; the tests verify them:
 - Plain, conversational English. No poetry, mysticism, cliches, metaphors, or poster lines.
 - No repeated lines.
 - No invented weather, time, surroundings, or local facts.
-- No medical claims, no promises of calm, no demands to feel a certain way.
+- No scientific or medical claims, no promises of calm, no demands to feel a certain way.
 - For anxiety: ordinary worry uses breath/body focus; rising distress moves attention outward (sounds, sight, feet); panic, derealisation, or flashbacks means a grounding session or human support, never an intense inward practice.
 - Sleep practice forbids a brightening delivery; the session never pushes energy up.
 

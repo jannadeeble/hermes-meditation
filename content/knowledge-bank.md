@@ -24,18 +24,11 @@ Two families of practice, and a session can move between them:
 
 Start focused, open later in the session or later in someone's practice. Guidance fades as skill grows; silence grows with it.
 
-### What the evidence actually supports
+### What this practice does not claim
 
-These are the claims it is safe to speak, and no further:
+This system teaches attention practice: noticing where attention is, and returning it when it wanders. It makes no scientific or medical claims about what meditation does to the body, the brain, or any condition.
 
-- Mindfulness programs tend to produce small to moderate average reductions in anxiety, stress, and low mood after roughly eight weeks, compared with doing nothing. Results vary a lot by person.
-- Some trials show small average improvements in parts of attention: staying with something, noticing distraction, flexible thinking. The effects are smaller when compared with other active training.
-- Noticing that attention has wandered and choosing to return is direct practice in monitoring and redirecting attention.
-- Learning to notice thoughts as events, rather than commands or facts, is a recognised part of mindfulness teaching (decentering).
-- Body-focused attention and relaxation practices can ease situational anxiety in some studies, and body scan practice is associated with better noticing of body signals (interoception).
-- The body's alarm response (fight or flight) is a well-documented reaction to perceived threat. Noticing it as a signal, rather than as a verdict about reality, is a teachable move.
-
-Never claim: meditation rewires the brain in a guaranteed or simple way; a session activates a named body system or tells the body it is safe; meditation treats depression, anxiety, trauma, pain, or sleep disorders; more minutes always produce better results; a sound frequency has special healing effects; ancient use proves modern medical benefit. Human-led group research is evidence about programs, not proof that a recording does the same thing.
+Never claim: meditation rewires the brain; a session activates a named body system or tells the body it is safe; meditation treats depression, anxiety, trauma, pain, or sleep disorders; more minutes always produce better results; a sound frequency has special healing effects; ancient use proves modern medical benefit; a recording does what a human-led program does.
 
 ## Part 2. The practices
 
@@ -92,25 +85,25 @@ Bringing attention to an ordinary task.
 
 ## Part 3. The themes
 
-Every theme has teaching points. Each point is one plain idea, with its evidence and its return method. A session uses one theme and one to three of its teaching points, never more. Themes interlink: anxiety and sleep, stress and anger, self-compassion and everything.
+Every theme has teaching points. Each point is one plain idea, with its safety boundary and its return method. A session uses one theme and one to three of its teaching points, never more. Themes interlink: anxiety and sleep, stress and anger, self-compassion and everything.
 
 ### Anxiety
 
 **A1. Anxiety is a signal, not a verdict.**
 The body's alarm is built to protect. It can fire for real danger and for imagined futures alike. Noticing the alarm as a signal, rather than as a fact about the situation, is the first move.
-Evidence: the alarm response is well documented; the safe wording is about noticing it as a signal, never claiming meditation treats anxiety disorder.
+Safety: never claim meditation treats anxiety disorder; the point is noticing the alarm as a signal, not as a verdict.
 Return: to the body's contact with the seat, floor, or bed.
 Fits: breath anchor, body scan, sleep.
 
 **A2. Thoughts are storylines, not facts.**
 The mind makes worst-case stories. You can notice the story without living inside it. The thought is an event happening now; it is not an instruction you must follow.
-Evidence: decentering is a recognised part of mindfulness teaching; safe wording only.
+Safety: no research claims; the point is noticing the thought as an event and returning.
 Return: to the practice's own next felt sensation.
 Fits: breath anchor, open awareness.
 
 **A3. Anxiety lives in the body first.**
 Tight chest, racing heart, butterflies, shallow breath. The body shows up before the story does. Noticing the sensation gives attention somewhere concrete to go.
-Evidence: body awareness and relaxation practices show some effect on situational anxiety in studies.
+Safety: no research claims; the point is noticing sensation, not treating the feeling.
 Return: to the feet, the seat, or the breath.
 Fits: body scan, breath anchor.
 
@@ -130,7 +123,7 @@ Related themes: sleep (worry at night), stress, self-compassion.
 
 **S1. Stress is the body mobilising for effort; recovery is the return.**
 The alarm and effort response is useful for a real task. The problem is when the body never gets the signal to settle. Rest is not laziness; it is how the system recovers.
-Evidence: the stress response and relaxation response are documented; safe wording only.
+Safety: no research claims; the point is noticing strain early and returning to rest.
 Return: to the body as a base.
 Fits: breath anchor, body scan.
 
@@ -155,7 +148,7 @@ Related themes: anxiety, sleep, anger.
 
 **N1. Rest is not a test.**
 There is nothing to succeed at. If sleep comes, welcome it. If it does not, resting is still the practice. Trying to force sleep pushes it away.
-Evidence: safe wording only; sleep is not treatable by a recording.
+Safety: sleep is not treatable by a recording; resting is the practice.
 Return: to the body's contact with the bed.
 Fits: sleep.
 
@@ -224,7 +217,7 @@ Fits: breath anchor, loving kindness.
 
 **C4. Three parts of self-kindness.**
 Be kind to yourself; remember you are not alone in struggling; hold the difficulty in mindful awareness. All three together, none demanded.
-Evidence: self-compassion research (Neff); safe wording only.
+Safety: no research claims; the three parts are an intention, not a promised result.
 Return: to the phrase or the body.
 Fits: loving kindness, breath anchor.
 
@@ -234,7 +227,7 @@ Related themes: anxiety, anger, grief.
 
 **F1. Noticing the wander is the practice.**
 Attention wandering is not failure. Realising it has wandered is already a moment of awareness, and choosing to return is the training.
-Evidence: attention-return card, moderate evidence for small attention improvements.
+Safety: no research claims; noticing the wander is the practice itself.
 Return: to the chosen anchor.
 Fits: all practices.
 

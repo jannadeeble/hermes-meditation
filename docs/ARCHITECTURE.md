@@ -10,7 +10,7 @@ There is no separate web page, player, schedule service, or meditation web API i
 
 ## Two generation paths
 
-- **Course path** (`course`): the 30-day learning journey. Days have fixed objectives, practice types, and evidence cards. By default each render writes fresh LLM words within the day's practice type; `--no-llm` renders the saved reviewed script.
+- **Course path** (`course`): the 30-day learning journey. Days have fixed objectives, practice types, and reviewed teaching points. By default each render writes fresh LLM words within the day's practice type; `--no-llm` renders the saved reviewed script.
 - **One-off path** (`meditation`): any knowledge-bank topic, any time. The user names a topic (anxiety, sleep, stress, ...), a length, and an optional practice (the first practice the topic fits is used when omitted), situation, and theme. The topic's teaching points are selected from the knowledge bank and fresh words are written every render.
 
 ## Main content rule
@@ -48,7 +48,7 @@ This is what gives the feature variance: two meditations of the same practice ar
 ## Source of truth
 
 - `content/foundation-course.json`: course order, lesson status, objectives, practices, scripts, and pause weights
-- `content/evidence-cards.json`: reviewed teaching claims, sources, approved spoken wording, and stronger wording that is not supported (course path)
+- `content/evidence-cards.json`: reviewed teaching wording used by the course path; each lesson links a card by id and the card's spoken_text feeds the course brief
 - `content/knowledge-bank.md`: the approved bank of topics, teaching points, practices, and writing rules; the writer's system prompt carries this whole document
 - `content/knowledge-bank.json`: machine-readable bank (topics, points, fit practices, return hints, safety notes) used to build one-off topic briefs
 - `meditation/curriculum.py`: course loading and the ready-only gate
@@ -63,11 +63,9 @@ This is what gives the feature variance: two meditations of the same practice ar
 - `meditation/service.py`: one complete generation run (course and one-off)
 - `meditation/cli.py`: chat-facing command
 
-## Scientific claims
+## No health claims
 
-Body and brain explanations are allowed when they are supported by a reviewed source. A claim must first be added to the evidence-card file. The lesson refers to that card and uses wording no stronger than the reviewed claim.
-
-The system does not ban words merely because they describe effects on the body or brain. It bans claims that are stronger than their source, such as promising a permanent change from one session.
+The public version makes no scientific or medical claims. The knowledge bank forbids claims about treating conditions, rewiring the brain, activating body systems, healing frequencies, or guaranteed results, and the validation rules reject scripts that make them.
 
 ## Walking sessions
 
@@ -101,7 +99,7 @@ The final wave file must be within 0.05 seconds of the requested length. MP3 enc
 
 ## Soundscape
 
-Each lesson may declare a soundscape file in the configured file area. Day 1 uses a multi-hour 432 Hz ambient track with no melody, designed to be homogeneous so any timed chunk works.
+Each lesson may declare a soundscape file in the configured file area. Day 1 uses a long, steady ambient track with no melody, designed to be homogeneous so any timed chunk works.
 
 The renderer pulls a chunk of exactly the session length from a random point in the soundscape. It fades the chunk in over the opening silence and fades it out over the final seconds, then mixes it quietly under the voice at 15 percent volume. The final wave file keeps the exact requested length.
 
@@ -131,7 +129,7 @@ To add the next lesson:
 
 1. Pick the next planned day. Do not skip days.
 2. Research the one teaching point.
-3. Add or reuse one reviewed evidence card.
+3. Add or reuse one reviewed teaching card.
 4. Write the objective and one main practice.
 5. Write six to ten natural speech blocks.
 6. Split rushed passages into short spoken lines with ordinary fixed gaps.
@@ -154,7 +152,7 @@ Unit tests cover:
 
 - 30 ordered course placeholders
 - only written lessons being renderable
-- evidence-card links
+- teaching-card links
 - exact silence allocation
 - rejection of overlong speech
 - exact wave and MP3 duration

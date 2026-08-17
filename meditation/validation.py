@@ -162,12 +162,12 @@ def validate_script(
                 f"(max {_MAX_BLOCK_WORDS}). Split it into shorter blocks."
             )
 
-    # Plain, science-grounded language: no woo-woo phrasing
+    # Plain, grounded language: no woo-woo phrasing
     for phrase in _WOO_WORDS:
         if phrase in full_text:
             problems.append(
                 f"script uses woo-woo phrasing: '{phrase}'. Rewrite it in plain, "
-                "science-grounded language."
+                "grounded language."
             )
 
     # Sleep and rest never push energy up, so "brightening" is forbidden

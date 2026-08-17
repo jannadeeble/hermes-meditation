@@ -2,13 +2,7 @@
   "cards": [
     {
       "id": "attention-return-001",
-      "claim": "Noticing that attention has wandered and choosing to return practises monitoring and redirecting attention.",
-      "spoken_text": "Each return is one small act of training. You are using the basic abilities involved in noticing where attention has gone and choosing where it goes next. Studies of mindfulness training find small average improvements in some parts of attention, though people vary.",
-      "evidence_strength": "moderate",
-      "sources": [
-        "Verhaeghen 2023, Mindfulness as Attention Training",
-        "Oxford Mindfulness Centre teaching assessment guide"
-      ],
+      "spoken_text": "Each return is one small act of practice. You are using the basic abilities involved in noticing where attention has gone and choosing where it goes next. The practice is not about results; it is about returning, again and again.",
       "forbidden_strengthenings": [
         "guaranteed",
         "rewires your brain",

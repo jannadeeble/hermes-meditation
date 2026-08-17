@@ -20,7 +20,7 @@ metadata:
 
 ## How a meditation is made
 
-The system has a knowledge bank of science, psychological topics, teaching points, and practices. The writer reads the whole bank and writes fresh words every time. Two meditations are never identical.
+The system has a knowledge bank of teaching points, practices, and plain-language topics. The writer reads the whole bank and writes fresh words every time. Two meditations are never identical.
 
 A request needs a **topic**. The topics are:
 
@@ -83,7 +83,7 @@ Record specific feedback in the session work. Examples:
 - too much talking
 - pauses too long
 - teaching too basic
-- science felt vague
+- teaching felt vague
 - voice sounded clipped
 - theme felt forced
 
