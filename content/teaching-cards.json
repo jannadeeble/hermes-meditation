@@ -1,0 +1,68 @@
+{
+  "cards": [
+    {
+      "id": "noticing-is-the-turn",
+      "title": "Noticing is the turning point",
+      "teaching_point": "Realising that attention has wandered is already a moment of awareness.",
+      "explanation": "The aim is not to stop wandering. The useful moment is noticing where attention went, then choosing to begin again without blame.",
+      "practice_keys": ["walking", "breath_anchor", "body_scan", "loving_kindness", "focus"],
+      "daily_life_application": "Use one moment of noticing before returning to an ordinary task today."
+    },
+    {
+      "id": "anchor-not-grip",
+      "title": "An anchor is not a grip",
+      "teaching_point": "An anchor gives attention somewhere to return without asking you to hold it there by force.",
+      "explanation": "Attention can rest lightly on one clear sensation. When it moves away, the practice is to return rather than tighten or strain.",
+      "practice_keys": ["walking", "breath_anchor", "body_scan", "focus"],
+      "daily_life_application": "Choose one simple sensation as an anchor during a busy moment."
+    },
+    {
+      "id": "effort-and-ease",
+      "title": "Enough effort, without strain",
+      "teaching_point": "Meditation needs enough effort to remember the practice, with enough ease to keep returning.",
+      "explanation": "Too little effort becomes drifting. Too much becomes strain. A workable middle is alert, gentle, and willing to begin again.",
+      "practice_keys": ["walking", "breath_anchor", "body_scan", "loving_kindness", "sleep", "focus"],
+      "daily_life_application": "Notice once today whether a task needs more attention or less strain."
+    },
+    {
+      "id": "sensation-before-story",
+      "title": "Sensation before the story",
+      "teaching_point": "Direct sensation and the mind's description of it are two different parts of experience.",
+      "explanation": "You can first notice pressure, warmth, movement, or sound. The names and opinions that follow can be noticed without becoming the anchor.",
+      "practice_keys": ["walking", "breath_anchor", "body_scan", "focus"],
+      "daily_life_application": "Pause once today to notice a direct sensation before naming or judging it."
+    },
+    {
+      "id": "narrow-and-wide",
+      "title": "Attention can narrow and widen",
+      "teaching_point": "Attention can rest on one detail and later widen to include the larger field around it.",
+      "explanation": "A narrow focus makes the anchor clear. A wider focus can include body, sound, and space while the anchor remains available for returning.",
+      "practice_keys": ["walking", "breath_anchor", "body_scan", "focus"],
+      "daily_life_application": "Move from one detail to the wider room during one ordinary pause."
+    },
+    {
+      "id": "thoughts-as-events",
+      "title": "A thought is an event",
+      "teaching_point": "A thought can be noticed as something happening now, rather than an instruction that must be followed.",
+      "explanation": "There is no need to remove the thought. Notice that thinking is present, then choose whether to return to the practice.",
+      "practice_keys": ["breath_anchor", "body_scan", "sleep", "focus"],
+      "daily_life_application": "Notice one thought today before deciding whether it needs your attention."
+    },
+    {
+      "id": "kindness-is-an-intention",
+      "title": "Kindness is an intention",
+      "teaching_point": "Kindness practice offers a direction of goodwill without demanding a particular feeling.",
+      "explanation": "The phrase can be repeated sincerely even when warmth does not appear. The practice is the willingness to offer it, not a mood to produce.",
+      "practice_keys": ["loving_kindness"],
+      "daily_life_application": "Offer one quiet wish of goodwill during an ordinary meeting today."
+    },
+    {
+      "id": "rest-is-not-a-test",
+      "title": "Rest is not a test",
+      "teaching_point": "A rest practice does not need to force sleep or prove that you are relaxing correctly.",
+      "explanation": "The task is only to reduce effort and return to a simple resting anchor. Sleep may come, while quiet rest remains enough for the practice.",
+      "practice_keys": ["sleep"],
+      "daily_life_application": "Let one short pause today be rest rather than another task to complete."
+    }
+  ]
+}

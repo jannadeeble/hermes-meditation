@@ -1,0 +1,19 @@
+[project]
+name = "hermes-meditation"
+version = "0.1.0"
+description = "Chat-driven guided meditation generator for Hermes: knowledge bank, script writer, voice, exact-length renderer"
+requires-python = ">=3.12,<3.14"
+license = "MIT"
+readme = "README.md"
+
+[project.scripts]
+meditation = "meditation.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["meditation*"]
+
+[tool.pyright]
+extraPaths = ["."]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

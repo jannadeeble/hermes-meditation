@@ -1,0 +1,988 @@
+{
+  "topics": [
+    {
+      "id": "anxiety",
+      "name": "Anxiety",
+      "safety_notes": "For ordinary worry use breath/body focus. For rising distress move attention outward (sounds, sight, feet). Panic, derealisation, flashbacks -> offer a simple grounding session or human support; never intense inward practice.",
+      "points": [
+        {
+          "id": "A1",
+          "point": "Anxiety is a signal, not a verdict.",
+          "explanation": "The body's alarm is built to protect. It can fire for real danger and for imagined futures alike. Noticing the alarm as a signal, rather than as a fact about the situation, is the first move.",
+          "evidence_wording": "The body's alarm response is a well-documented reaction to perceived threat. Noticing it as a signal, rather than as a verdict about reality, is a teachable move.",
+          "forbidden_strengthenings": [
+            "guaranteed",
+            "rewires your brain",
+            "heals trauma",
+            "treats depression",
+            "treats anxiety",
+            "treats trauma",
+            "treats pain",
+            "treats sleep disorders",
+            "tells the body it is safe",
+            "activates a named body system",
+            "healing effects",
+            "sound frequency",
+            "ancient use",
+            "proves modern medical benefit",
+            "treats anxiety disorder",
+            "cures anxiety"
+          ],
+          "fit_practices": [
+            "breath_anchor",
+            "body_scan",
+            "sleep"
+          ],
+          "return_hint": "to the body's contact with the seat, floor, or bed"
+        },
+        {
+          "id": "A2",
+          "point": "Thoughts are storylines, not facts.",
+          "explanation": "The mind makes worst-case stories. You can notice the story without living inside it. The thought is an event happening now; it is not an instruction you must follow.",
+          "evidence_wording": "Learning to notice thoughts as events, rather than commands or facts, is a recognised part of mindfulness teaching (decentering).",
+          "forbidden_strengthenings": [
+            "guaranteed",
+            "rewires your brain",
+            "heals trauma",
+            "treats depression",
+            "treats anxiety",
+            "treats trauma",
+            "treats pain",
+            "treats sleep disorders",
+            "tells the body it is safe",
+            "activates a named body system",
+            "healing effects",
+            "sound frequency",
+            "ancient use",
+            "proves modern medical benefit"
+          ],
+          "fit_practices": [
+            "breath_anchor",
+            "open_awareness"
+          ],
+          "return_hint": "to the practice's own next felt sensation"
+        },
+        {
+          "id": "A3",
+          "point": "Anxiety lives in the body first.",
+          "explanation": "Tight chest, racing heart, butterflies, shallow breath. The body shows up before the story does. Noticing the sensation gives attention somewhere concrete to go.",
+          "evidence_wording": "Body-focused attention and relaxation practices can ease situational anxiety in some studies, and body scan practice is associated with better noticing of body signals (interoception).",
+          "forbidden_strengthenings": [
+            "guaranteed",
+            "rewires your brain",
+            "heals trauma",
+            "treats depression",
+            "treats anxiety",
+            "treats trauma",
+            "treats pain",
+            "treats sleep disorders",
+            "tells the body it is safe",
+            "activates a named body system",
+            "healing effects",
+            "sound frequency",
+            "ancient use",
+            "proves modern medical benefit"
+          ],
+          "fit_practices": [
+            "body_scan",
+            "breath_anchor"
+          ],
+          "return_hint": "to the feet, the seat, or the breath"
+        },
+        {
+          "id": "A4",
+          "point": "The cycle of anxious thinking.",
+          "explanation": "Worry feeds worry. The loop keeps going because the mind tries to solve the feeling by thinking about it. Noticing the loop and returning breaks the automatic cycle, once at a time.",
+          "evidence_wording": "Noticing that attention has wandered and choosing to return is direct practice in monitoring and redirecting attention.",
+          "forbidden_strengthenings": [
+            "guaranteed",
+            "rewires your brain",
+            "heals trauma",
+            "treats depression",
+            "treats anxiety",
+            "treats trauma",
+            "treats pain",
+            "treats sleep disorders",
+            "tells the body it is safe",
+            "activates a named body system",
+            "healing effects",
+            "sound frequency",
+            "ancient use",
+            "proves modern medical benefit"
+          ],
+          "fit_practices": [
+            "breath_anchor",
+            "open_awareness"
+          ],
+          "return_hint": "to the next felt breath"
+        },
+        {
+          "id": "A5",
+          "point": "You do not have to argue with the thought.",
+          "explanation": "The alternative to believing a thought is not fighting it. It is noticing, naming it lightly, and returning. No argument needed, no forcing thoughts away.",
+          "evidence_wording": "Learning to notice thoughts as events, rather than commands or facts, is a recognised part of mindfulness teaching (decentering).",
+          "forbidden_strengthenings": [
+            "guaranteed",
+            "rewires your brain",
+            "heals trauma",
+            "treats depression",
+            "treats anxiety",
+            "treats trauma",
+            "treats pain",
+            "treats sleep disorders",
+            "tells the body it is safe",
+            "activates a named body system",
+            "healing effects",
+            "sound frequency",
+            "ancient use",
+            "proves modern medical benefit"
+          ],
+          "fit_practices": [
+            "breath_anchor",
+            "open_awareness"
+          ],
+          "return_hint": "to the body's contact or the next breath"
+        }
+      ]
+    },
+    {
+      "id": "stress",
+      "name": "Stress and recovery",
+      "safety_notes": "Rising distress moves attention outward: sight, sound, contact with the ground, the current room. Never direct into trauma. Never hold the breath or force a slow rate. Panic, flashbacks, or severe distress means offering a simple grounding session or human support, never an intense inward practice.",
+      "points": [
+        {
+          "id": "S1",
+          "point": "Stress is the body mobilising for effort; recovery is the return.",
+          "explanation": "The alarm and effort response is useful for a real task. The problem is when the body never gets the signal to settle. Rest is not laziness; it is how the system recovers.",
+          "evidence_wording": "The stress response and the relaxation response are documented.",
+          "forbidden_strengthenings": [
+            "guaranteed",
+            "rewires your brain",
+            "heals trauma",
+            "treats depression",
+            "treats anxiety",
+            "treats trauma",
+            "treats pain",
+            "treats sleep disorders",
+            "tells the body it is safe",
+            "activates a named body system",
+            "healing effects",
+            "sound frequency",
+            "ancient use",
+            "proves modern medical benefit"
+          ],
+          "fit_practices": [
+            "breath_anchor",
+            "body_scan"
+          ],
+          "return_hint": "to the body as a base"
+        },
+        {
+          "id": "S2",
+          "point": "The pause between demand and response is yours.",
+          "explanation": "Something happens, then you act. Between them is a gap. The practice is widening that gap so the response is chosen, not automatic.",
+          "evidence_wording": "Noticing that attention has wandered and choosing to return is direct practice in monitoring and redirecting attention.",
+          "forbidden_strengthenings": [
+            "guaranteed",
+            "rewires your brain",
+            "heals trauma",
+            "treats depression",
+            "treats anxiety",
+            "treats trauma",
+            "treats pain",
+            "treats sleep disorders",
+            "tells the body it is safe",
+            "activates a named body system",
+            "healing effects",
+            "sound frequency",
+            "ancient use",
+            "proves modern medical benefit"
+          ],
+          "fit_practices": [
+            "breath_anchor",
+            "daily_life"
+          ],
+          "return_hint": "to the next felt breath before responding"
+        },
+        {
+          "id": "S3",
+          "point": "Strain shows up in the body early.",
+          "explanation": "Shoulders, jaw, shallow breathing, gripping. Catching strain early is easier than calming it late. The body scan trains this early noticing.",
+          "evidence_wording": "Body scan practice is associated with better noticing of body signals (interoception).",
+          "forbidden_strengthenings": [
+            "guaranteed",
+            "rewires your brain",
+            "heals trauma",
+            "treats depression",
+            "treats anxiety",
+            "treats trauma",
+            "treats pain",
+            "treats sleep disorders",
+            "tells the body it is safe",
+            "activates a named body system",
+            "healing effects",
+            "sound frequency",
+            "ancient use",
+            "proves modern medical benefit"
+          ],
+          "fit_practices": [
+            "body_scan"
+          ],
+          "return_hint": "to the part of the body carrying the tension"
+        },
+        {
+          "id": "S4",
+          "point": "Recovery can be one small deliberate pause.",
+          "explanation": "Not a long holiday, not a perfect day. One minute of settling, one walk without a phone, one slow breath. Small recoveries add up.",
+          "evidence_wording": "The stress response and the relaxation response are documented; even brief pauses of settling let the body begin to recover.",
+          "forbidden_strengthenings": [
+            "guaranteed",
+            "rewires your brain",
+            "heals trauma",
+            "treats depression",
+            "treats anxiety",
+            "treats trauma",
+            "treats pain",
+            "treats sleep disorders",
+            "tells the body it is safe",
+            "activates a named body system",
+            "healing effects",
+            "sound frequency",
+            "ancient use",
+            "proves modern medical benefit"
+          ],
+          "fit_practices": [
+            "daily_life",
+            "walking"
+          ],
+          "return_hint": "to the next felt step of the pause"
+        }
+      ]
+    },
+    {
+      "id": "sleep",
+      "name": "Sleep",
+      "safety_notes": "Rising distress moves attention outward: sight, sound, contact with the ground, the current room. Never direct into trauma. Never hold the breath or force a slow rate. For sleep, never fight sleep or stay awake; the aim is rest and settling, not a task to succeed at. Panic, flashbacks, or severe distress means offering a simple grounding session or human support, never an intense inward practice.",
+      "points": [
+        {
+          "id": "N1",
+          "point": "Rest is not a test.",
+          "explanation": "There is nothing to succeed at. If sleep comes, welcome it. If it does not, resting is still the practice. Trying to force sleep pushes it away.",
+          "evidence_wording": "Sleep is not treatable by a recording; rest and settling are the practice, and sleep itself is welcome but not required.",
+          "forbidden_strengthenings": [
+            "guaranteed",
+            "rewires your brain",
+            "heals trauma",
+            "treats depression",
+            "treats anxiety",
+            "treats trauma",
+            "treats pain",
+            "treats sleep disorders",
+            "tells the body it is safe",
+            "activates a named body system",
+            "healing effects",
+            "sound frequency",
+            "ancient use",
+            "proves modern medical benefit",
+            "guarantees sleep",
+            "treats insomnia"
+          ],
+          "fit_practices": [
+            "sleep"
+          ],
+          "return_hint": "to the body's contact with the bed"
+        },
+        {
+          "id": "N2",
+          "point": "The day ends; it does not need solving now.",
+          "explanation": "The mind reopens the day's questions at night. The practice is not to solve them, but to notice the urge to solve and return to the bed.",
+          "evidence_wording": "The urge to solve the day's questions at night is common; noticing it and returning attention is the practice.",
+          "forbidden_strengthenings": [
+            "guaranteed",
+            "rewires your brain",
+            "heals trauma",
+            "treats depression",
+            "treats anxiety",
+            "treats trauma",
+            "treats pain",
+            "treats sleep disorders",
+            "tells the body it is safe",
+            "activates a named body system",
+            "healing effects",
+            "sound frequency",
+            "ancient use",
+            "proves modern medical benefit"
+          ],
+          "fit_practices": [
+            "sleep"
+          ],
+          "return_hint": "to the body's contact with the bed"
+        },
+        {
+          "id": "N3",
+          "point": "Settle the body one part at a time.",
+          "explanation": "Heavy legs, soft hands, a quiet jaw, the weight resting into the mattress. Body-first settling gives the mind less to hold.",
+          "evidence_wording": "Body scan practice is associated with better noticing of body signals (interoception).",
+          "forbidden_strengthenings": [
+            "guaranteed",
+            "rewires your brain",
+            "heals trauma",
+            "treats depression",
+            "treats anxiety",
+            "treats trauma",
+            "treats pain",
+            "treats sleep disorders",
+            "tells the body it is safe",
+            "activates a named body system",
+            "healing effects",
+            "sound frequency",
+            "ancient use",
+            "proves modern medical benefit"
+          ],
+          "fit_practices": [
+            "sleep",
+            "body_scan"
+          ],
+          "return_hint": "to the next part of the body"
+        },
+        {
+          "id": "N4",
+          "point": "Effort and ease.",
+          "explanation": "Enough effort to remember the practice, enough ease to keep returning. Too little drifts; too much strains. The middle is alert, gentle, and willing to begin again.",
+          "evidence_wording": "Attention is trained through repeated gentle noticing and returning.",
+          "forbidden_strengthenings": [
+            "guaranteed",
+            "rewires your brain",
+            "heals trauma",
+            "treats depression",
+            "treats anxiety",
+            "treats trauma",
+            "treats pain",
+            "treats sleep disorders",
+            "tells the body it is safe",
+            "activates a named body system",
+            "healing effects",
+            "sound frequency",
+            "ancient use",
+            "proves modern medical benefit"
+          ],
+          "fit_practices": [
+            "sleep",
+            "breath_anchor"
+          ],
+          "return_hint": "to the body's contact with the bed"
+        },
+        {
+          "id": "N5",
+          "point": "If sleep comes, that is welcome; if not, resting is enough.",
+          "explanation": "This is the whole stance of the sleep practice. State it plainly, once, early.",
+          "evidence_wording": "Resting is enough; if sleep comes it is welcome, and if it does not, the practice is still complete.",
+          "forbidden_strengthenings": [
+            "guaranteed",
+            "rewires your brain",
+            "heals trauma",
+            "treats depression",
+            "treats anxiety",
+            "treats trauma",
+            "treats pain",
+            "treats sleep disorders",
+            "tells the body it is safe",
+            "activates a named body system",
+            "healing effects",
+            "sound frequency",
+            "ancient use",
+            "proves modern medical benefit"
+          ],
+          "fit_practices": [
+            "sleep"
+          ],
+          "return_hint": "to the body's contact with the bed"
+        }
+      ]
+    },
+    {
+      "id": "anger",
+      "name": "Anger",
+      "safety_notes": "Rising distress moves attention outward: sight, sound, contact with the ground, the current room. Never direct into trauma, and never invite directing anger at anyone; the feeling is acknowledged and allowed to pass through the body. Never hold the breath or force a slow rate. Panic, flashbacks, or severe distress means offering a simple grounding session or human support, never an intense inward practice.",
+      "points": [
+        {
+          "id": "G1",
+          "point": "Anger is information, not an order.",
+          "explanation": "It points at a boundary, a threat, or an injustice. The feeling is real and valid. It does not have to become an action.",
+          "evidence_wording": "Being with a feeling without being swept away by it is one of the abilities meditation trains; a feeling does not have to become an action.",
+          "forbidden_strengthenings": [
+            "guaranteed",
+            "rewires your brain",
+            "heals trauma",
+            "treats depression",
+            "treats anxiety",
+            "treats trauma",
+            "treats pain",
+            "treats sleep disorders",
+            "tells the body it is safe",
+            "activates a named body system",
+            "healing effects",
+            "sound frequency",
+            "ancient use",
+            "proves modern medical benefit"
+          ],
+          "fit_practices": [
+            "breath_anchor",
+            "body_scan"
+          ],
+          "return_hint": "to the body, the feet, the breath"
+        },
+        {
+          "id": "G2",
+          "point": "The early cues come first.",
+          "explanation": "Heat, tightness, clenching, a rising pressure. If you can notice the first cue, you have more room than if you wait until the wave is full.",
+          "evidence_wording": "Body scan practice is associated with better noticing of body signals (interoception).",
+          "forbidden_strengthenings": [
+            "guaranteed",
+            "rewires your brain",
+            "heals trauma",
+            "treats depression",
+            "treats anxiety",
+            "treats trauma",
+            "treats pain",
+            "treats sleep disorders",
+            "tells the body it is safe",
+            "activates a named body system",
+            "healing effects",
+            "sound frequency",
+            "ancient use",
+            "proves modern medical benefit"
+          ],
+          "fit_practices": [
+            "body_scan"
+          ],
+          "return_hint": "to the place in the body where the heat or tightness is"
+        },
+        {
+          "id": "G3",
+          "point": "There is a gap between trigger and response.",
+          "explanation": "You can widen it. Feel the anger, name it, and choose. Feeling it fully and acting on it are different things.",
+          "evidence_wording": "Noticing the gap between a trigger and a response is direct practice in choosing, rather than reacting automatically.",
+          "forbidden_strengthenings": [
+            "guaranteed",
+            "rewires your brain",
+            "heals trauma",
+            "treats depression",
+            "treats anxiety",
+            "treats trauma",
+            "treats pain",
+            "treats sleep disorders",
+            "tells the body it is safe",
+            "activates a named body system",
+            "healing effects",
+            "sound frequency",
+            "ancient use",
+            "proves modern medical benefit"
+          ],
+          "fit_practices": [
+            "breath_anchor",
+            "daily_life"
+          ],
+          "return_hint": "to the next felt breath"
+        },
+        {
+          "id": "G4",
+          "point": "You can feel anger without pretending it is not there.",
+          "explanation": "The alternative to lashing out is not suppressing. It is acknowledging the feeling and letting it pass through the body without directing it at anyone.",
+          "evidence_wording": "Being with a feeling without being swept away by it - watching it rise, stay, and change - is one of the abilities meditation trains.",
+          "forbidden_strengthenings": [
+            "guaranteed",
+            "rewires your brain",
+            "heals trauma",
+            "treats depression",
+            "treats anxiety",
+            "treats trauma",
+            "treats pain",
+            "treats sleep disorders",
+            "tells the body it is safe",
+            "activates a named body system",
+            "healing effects",
+            "sound frequency",
+            "ancient use",
+            "proves modern medical benefit"
+          ],
+          "fit_practices": [
+            "open_awareness",
+            "body_scan"
+          ],
+          "return_hint": "to the body as a base"
+        }
+      ]
+    },
+    {
+      "id": "self-compassion",
+      "name": "Self-compassion and the inner critic",
+      "safety_notes": "Rising distress moves attention outward: sight, sound, contact with the ground, the current room. Never direct into trauma. Never hold the breath or force a slow rate. Never demand a particular feeling or promise calm. Panic, flashbacks, or severe distress means offering a simple grounding session or human support, never an intense inward practice.",
+      "points": [
+        {
+          "id": "C1",
+          "point": "The inner critic is a voice, not the truth.",
+          "explanation": "The self-critical voice was built to protect, and it still runs. You can hear it without agreeing with it, the same way you hear any other thought.",
+          "evidence_wording": "Learning to notice thoughts as events, rather than commands or facts, is a recognised part of mindfulness teaching (decentering).",
+          "forbidden_strengthenings": [
+            "guaranteed",
+            "rewires your brain",
+            "heals trauma",
+            "treats depression",
+            "treats anxiety",
+            "treats trauma",
+            "treats pain",
+            "treats sleep disorders",
+            "tells the body it is safe",
+            "activates a named body system",
+            "healing effects",
+            "sound frequency",
+            "ancient use",
+            "proves modern medical benefit"
+          ],
+          "fit_practices": [
+            "breath_anchor",
+            "open_awareness"
+          ],
+          "return_hint": "to the breath or the body"
+        },
+        {
+          "id": "C2",
+          "point": "Kindness is an intention, not a demanded feeling.",
+          "explanation": "You can offer goodwill even when warmth does not arrive. The practice is the willingness to offer it, not a mood to produce.",
+          "evidence_wording": "Loving-kindness practice is offering a direction of goodwill; no particular feeling is required or promised.",
+          "forbidden_strengthenings": [
+            "guaranteed",
+            "rewires your brain",
+            "heals trauma",
+            "treats depression",
+            "treats anxiety",
+            "treats trauma",
+            "treats pain",
+            "treats sleep disorders",
+            "tells the body it is safe",
+            "activates a named body system",
+            "healing effects",
+            "sound frequency",
+            "ancient use",
+            "proves modern medical benefit",
+            "promises calm"
+          ],
+          "fit_practices": [
+            "loving_kindness"
+          ],
+          "return_hint": "to the phrase or the wish"
+        },
+        {
+          "id": "C3",
+          "point": "Talk to yourself like a friend.",
+          "explanation": "The tone of the practice is the tone you would use with someone you care about. Notice the inner tone and soften it, without forcing.",
+          "evidence_wording": "Noticing thoughts as events, rather than commands or facts, is a recognised part of mindfulness teaching (decentering).",
+          "forbidden_strengthenings": [
+            "guaranteed",
+            "rewires your brain",
+            "heals trauma",
+            "treats depression",
+            "treats anxiety",
+            "treats trauma",
+            "treats pain",
+            "treats sleep disorders",
+            "tells the body it is safe",
+            "activates a named body system",
+            "healing effects",
+            "sound frequency",
+            "ancient use",
+            "proves modern medical benefit"
+          ],
+          "fit_practices": [
+            "breath_anchor",
+            "loving_kindness"
+          ],
+          "return_hint": "to the next felt breath"
+        },
+        {
+          "id": "C4",
+          "point": "Three parts of self-kindness.",
+          "explanation": "Be kind to yourself; remember you are not alone in struggling; hold the difficulty in mindful awareness. All three together, none demanded.",
+          "evidence_wording": "Self-compassion research (Neff) describes three parts of self-kindness: being kind to yourself, remembering that struggle is shared, and holding difficulty in mindful awareness.",
+          "forbidden_strengthenings": [
+            "guaranteed",
+            "rewires your brain",
+            "heals trauma",
+            "treats depression",
+            "treats anxiety",
+            "treats trauma",
+            "treats pain",
+            "treats sleep disorders",
+            "tells the body it is safe",
+            "activates a named body system",
+            "healing effects",
+            "sound frequency",
+            "ancient use",
+            "proves modern medical benefit"
+          ],
+          "fit_practices": [
+            "loving_kindness",
+            "breath_anchor"
+          ],
+          "return_hint": "to the phrase or the body"
+        }
+      ]
+    },
+    {
+      "id": "focus",
+      "name": "Focus and attention",
+      "safety_notes": "Rising distress moves attention outward: sight, sound, contact with the ground, the current room. Never direct into trauma. Never hold the breath or force a slow rate. Panic, flashbacks, or severe distress means offering a simple grounding session or human support, never an intense inward practice.",
+      "points": [
+        {
+          "id": "F1",
+          "point": "Noticing the wander is the practice.",
+          "explanation": "Attention wandering is not failure. Realising it has wandered is already a moment of awareness, and choosing to return is the training.",
+          "evidence_wording": "Noticing that attention has wandered and choosing to return is direct practice in monitoring and redirecting attention. Some trials show small average improvements in parts of attention.",
+          "forbidden_strengthenings": [
+            "guaranteed",
+            "rewires your brain",
+            "heals trauma",
+            "treats depression",
+            "treats anxiety",
+            "treats trauma",
+            "treats pain",
+            "treats sleep disorders",
+            "tells the body it is safe",
+            "activates a named body system",
+            "healing effects",
+            "sound frequency",
+            "ancient use",
+            "proves modern medical benefit",
+            "large improvements",
+            "guaranteed improvements"
+          ],
+          "fit_practices": [
+            "body_scan",
+            "breath_anchor",
+            "daily_life",
+            "loving_kindness",
+            "open_awareness",
+            "sleep",
+            "sound_awareness",
+            "walking"
+          ],
+          "return_hint": "to the chosen anchor"
+        },
+        {
+          "id": "F2",
+          "point": "An anchor is a place to return, not a grip.",
+          "explanation": "Hold the breath or the feet lightly. The point is not to lock attention in place by force; it is to have somewhere to come back to.",
+          "evidence_wording": "Attention control - staying with one thing, noticing when the mind wanders, and bringing attention back - is the most basic ability meditation trains.",
+          "forbidden_strengthenings": [
+            "guaranteed",
+            "rewires your brain",
+            "heals trauma",
+            "treats depression",
+            "treats anxiety",
+            "treats trauma",
+            "treats pain",
+            "treats sleep disorders",
+            "tells the body it is safe",
+            "activates a named body system",
+            "healing effects",
+            "sound frequency",
+            "ancient use",
+            "proves modern medical benefit"
+          ],
+          "fit_practices": [
+            "breath_anchor",
+            "body_scan",
+            "walking"
+          ],
+          "return_hint": "to the anchor"
+        },
+        {
+          "id": "F3",
+          "point": "Sensation before story.",
+          "explanation": "First there is the felt thing: pressure, warmth, movement, sound. Then the mind adds names and opinions. You can notice the sensation without joining the story.",
+          "evidence_wording": "Body awareness means feeling sensations directly: weight, warmth, contact, tension, the movement of the breath.",
+          "forbidden_strengthenings": [
+            "guaranteed",
+            "rewires your brain",
+            "heals trauma",
+            "treats depression",
+            "treats anxiety",
+            "treats trauma",
+            "treats pain",
+            "treats sleep disorders",
+            "tells the body it is safe",
+            "activates a named body system",
+            "healing effects",
+            "sound frequency",
+            "ancient use",
+            "proves modern medical benefit"
+          ],
+          "fit_practices": [
+            "body_scan",
+            "breath_anchor",
+            "open_awareness"
+          ],
+          "return_hint": "to the raw sensation"
+        },
+        {
+          "id": "F4",
+          "point": "Narrow and wide.",
+          "explanation": "Attention can rest on one detail, then widen to the field around it. Narrow makes the anchor clear; wide includes body, sound, and space while the anchor stays available.",
+          "evidence_wording": "Focused attention holds one anchor; open awareness lets experience come and go. A session can move between them.",
+          "forbidden_strengthenings": [
+            "guaranteed",
+            "rewires your brain",
+            "heals trauma",
+            "treats depression",
+            "treats anxiety",
+            "treats trauma",
+            "treats pain",
+            "treats sleep disorders",
+            "tells the body it is safe",
+            "activates a named body system",
+            "healing effects",
+            "sound frequency",
+            "ancient use",
+            "proves modern medical benefit"
+          ],
+          "fit_practices": [
+            "open_awareness",
+            "breath_anchor"
+          ],
+          "return_hint": "to the anchor, then widen again"
+        }
+      ]
+    },
+    {
+      "id": "relationships",
+      "name": "Relationships",
+      "safety_notes": "Rising distress moves attention outward: sight, sound, contact with the ground, the current room. Never direct into trauma. Never hold the breath or force a slow rate. Panic, flashbacks, or severe distress means offering a simple grounding session or human support, never an intense inward practice.",
+      "points": [
+        {
+          "id": "R1",
+          "point": "Reacting versus responding.",
+          "explanation": "Someone acts, the alarm fires, and the reaction is automatic. The practice is finding the pause, feeling the reaction, then choosing the response.",
+          "evidence_wording": "Noticing a reaction as it begins, before speaking or acting, is direct practice in choosing the response.",
+          "forbidden_strengthenings": [
+            "guaranteed",
+            "rewires your brain",
+            "heals trauma",
+            "treats depression",
+            "treats anxiety",
+            "treats trauma",
+            "treats pain",
+            "treats sleep disorders",
+            "tells the body it is safe",
+            "activates a named body system",
+            "healing effects",
+            "sound frequency",
+            "ancient use",
+            "proves modern medical benefit"
+          ],
+          "fit_practices": [
+            "breath_anchor",
+            "daily_life"
+          ],
+          "return_hint": "to the next felt breath before speaking"
+        },
+        {
+          "id": "R2",
+          "point": "You can hear someone without fixing or winning.",
+          "explanation": "Listening is not agreeing and not defeating. It is being present with what another person says while holding your own ground gently.",
+          "evidence_wording": "Listening is being present with what another person says while holding your own ground gently; it is neither agreeing nor defeating.",
+          "forbidden_strengthenings": [
+            "guaranteed",
+            "rewires your brain",
+            "heals trauma",
+            "treats depression",
+            "treats anxiety",
+            "treats trauma",
+            "treats pain",
+            "treats sleep disorders",
+            "tells the body it is safe",
+            "activates a named body system",
+            "healing effects",
+            "sound frequency",
+            "ancient use",
+            "proves modern medical benefit"
+          ],
+          "fit_practices": [
+            "breath_anchor",
+            "open_awareness"
+          ],
+          "return_hint": "to the body as a base"
+        },
+        {
+          "id": "R3",
+          "point": "Empathy starts with your own reaction.",
+          "explanation": "Before you can meet someone else's state, notice your own: your tightness, your story about them, your urge. Then there is room for theirs.",
+          "evidence_wording": "Noticing your own reaction first is part of emotion regulation - being with a feeling without being swept away by it.",
+          "forbidden_strengthenings": [
+            "guaranteed",
+            "rewires your brain",
+            "heals trauma",
+            "treats depression",
+            "treats anxiety",
+            "treats trauma",
+            "treats pain",
+            "treats sleep disorders",
+            "tells the body it is safe",
+            "activates a named body system",
+            "healing effects",
+            "sound frequency",
+            "ancient use",
+            "proves modern medical benefit"
+          ],
+          "fit_practices": [
+            "body_scan",
+            "open_awareness"
+          ],
+          "return_hint": "to the body"
+        },
+        {
+          "id": "R4",
+          "point": "Kindness offered without demanding warmth.",
+          "explanation": "Offer goodwill toward the person, whether or not the feeling flows. The offering is the practice.",
+          "evidence_wording": "Loving-kindness practice is offering a direction of goodwill; no particular feeling is required or promised.",
+          "forbidden_strengthenings": [
+            "guaranteed",
+            "rewires your brain",
+            "heals trauma",
+            "treats depression",
+            "treats anxiety",
+            "treats trauma",
+            "treats pain",
+            "treats sleep disorders",
+            "tells the body it is safe",
+            "activates a named body system",
+            "healing effects",
+            "sound frequency",
+            "ancient use",
+            "proves modern medical benefit",
+            "promises calm"
+          ],
+          "fit_practices": [
+            "loving_kindness"
+          ],
+          "return_hint": "to the phrase or the wish"
+        }
+      ]
+    },
+    {
+      "id": "grief",
+      "name": "Grief and change",
+      "safety_notes": "Rising distress moves attention outward: sight, sound, contact with the ground, the current room. Never direct into trauma, and never push the listener deeper into the hurt; the practice is gentle allowing, not revisiting loss. Never hold the breath or force a slow rate. Panic, flashbacks, or severe distress means offering a simple grounding session or human support, never an intense inward practice.",
+      "points": [
+        {
+          "id": "H1",
+          "point": "You do not have to move on quickly.",
+          "explanation": "Allowing is a practice. Grief is not a task with a deadline. The practice is to be with what is here, gently, for this moment.",
+          "evidence_wording": "Allowing is a practice; grief is not a task with a deadline, and being with what is here is enough for this moment.",
+          "forbidden_strengthenings": [
+            "guaranteed",
+            "rewires your brain",
+            "heals trauma",
+            "treats depression",
+            "treats anxiety",
+            "treats trauma",
+            "treats pain",
+            "treats sleep disorders",
+            "tells the body it is safe",
+            "activates a named body system",
+            "healing effects",
+            "sound frequency",
+            "ancient use",
+            "proves modern medical benefit"
+          ],
+          "fit_practices": [
+            "breath_anchor",
+            "open_awareness"
+          ],
+          "return_hint": "to the body as a base"
+        },
+        {
+          "id": "H2",
+          "point": "Feelings come in waves.",
+          "explanation": "A wave rises, peaks, and passes. You can ride one without drowning in it, and without needing it to stop immediately.",
+          "evidence_wording": "Emotion regulation means being with a feeling without being swept away by it - watching it rise, stay, and change.",
+          "forbidden_strengthenings": [
+            "guaranteed",
+            "rewires your brain",
+            "heals trauma",
+            "treats depression",
+            "treats anxiety",
+            "treats trauma",
+            "treats pain",
+            "treats sleep disorders",
+            "tells the body it is safe",
+            "activates a named body system",
+            "healing effects",
+            "sound frequency",
+            "ancient use",
+            "proves modern medical benefit"
+          ],
+          "fit_practices": [
+            "breath_anchor",
+            "body_scan"
+          ],
+          "return_hint": "to the next felt breath"
+        },
+        {
+          "id": "H3",
+          "point": "This hurts, and you are still here.",
+          "explanation": "Two things can be true at once. Holding both is steadier than forcing cheerfulness or sinking into the hurt.",
+          "evidence_wording": "Holding two things at once - that this hurts and that you are still here - is steadier than forcing cheerfulness or sinking into the hurt.",
+          "forbidden_strengthenings": [
+            "guaranteed",
+            "rewires your brain",
+            "heals trauma",
+            "treats depression",
+            "treats anxiety",
+            "treats trauma",
+            "treats pain",
+            "treats sleep disorders",
+            "tells the body it is safe",
+            "activates a named body system",
+            "healing effects",
+            "sound frequency",
+            "ancient use",
+            "proves modern medical benefit"
+          ],
+          "fit_practices": [
+            "open_awareness",
+            "breath_anchor"
+          ],
+          "return_hint": "to the body, the ground, the room"
+        },
+        {
+          "id": "H4",
+          "point": "Care for yourself the way you would care for a friend.",
+          "explanation": "The same kindness you would offer someone else grieving is available to you. Not forced, just offered.",
+          "evidence_wording": "The same kindness you would offer a friend is available to you; not forced, just offered.",
+          "forbidden_strengthenings": [
+            "guaranteed",
+            "rewires your brain",
+            "heals trauma",
+            "treats depression",
+            "treats anxiety",
+            "treats trauma",
+            "treats pain",
+            "treats sleep disorders",
+            "tells the body it is safe",
+            "activates a named body system",
+            "healing effects",
+            "sound frequency",
+            "ancient use",
+            "proves modern medical benefit"
+          ],
+          "fit_practices": [
+            "loving_kindness",
+            "breath_anchor"
+          ],
+          "return_hint": "to the phrase or the body"
+        }
+      ]
+    }
+  ]
+}

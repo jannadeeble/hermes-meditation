@@ -1,0 +1,654 @@
+{
+  "course_id": "foundation-30",
+  "title": "Foundation Course",
+  "lessons": [
+    {
+      "day": 1,
+      "title": "Beginning again",
+      "objective": "Learn that noticing wandering and returning is the practice, rather than a failure of the practice.",
+      "practice": "breath_anchor",
+      "status": "ready",
+      "speech_tempo": 1.0,
+      "opening_silence_seconds": 5.0,
+      "evidence_card_ids": [
+        "attention-return-001"
+      ],
+      "soundscape": "data/files/Nervous System Reset  432 Hz + Theta Wave Ambient Meditation Music for Deep Calm.mp3",
+      "min_session_minutes": 5,
+      "max_session_minutes": 20,
+      "script_blocks": [
+        {
+          "text": "Welcome.",
+          "pause_min_seconds": 3.0,
+          "pause_weight": 0,
+          "min_minutes": 5
+        },
+        {
+          "text": "Take a moment to settle into a position that feels comfortable and awake.",
+          "pause_min_seconds": 4.5,
+          "pause_weight": 0,
+          "min_minutes": 5
+        },
+        {
+          "text": "Let the chair, floor, or surface beneath you take your weight.",
+          "pause_min_seconds": 4.5,
+          "pause_weight": 0,
+          "min_minutes": 10
+        },
+        {
+          "text": "Let your back be upright, without making it rigid.",
+          "pause_min_seconds": 4.5,
+          "pause_weight": 0,
+          "min_minutes": 5
+        },
+        {
+          "text": "Place your hands wherever they can rest without effort.",
+          "pause_min_seconds": 4.5,
+          "pause_weight": 0,
+          "min_minutes": 10
+        },
+        {
+          "text": "Let your shoulders drop, and allow your face to soften.",
+          "pause_min_seconds": 4.5,
+          "pause_weight": 0,
+          "min_minutes": 5
+        },
+        {
+          "text": "If it feels comfortable, you can close your eyes.",
+          "pause_min_seconds": 4.5,
+          "pause_weight": 0,
+          "min_minutes": 5
+        },
+        {
+          "text": "Or leave them slightly open, with a soft gaze resting on one place.",
+          "pause_min_seconds": 4.5,
+          "pause_weight": 0,
+          "min_minutes": 5
+        },
+        {
+          "text": "You can adjust your position at any point if your body needs to move.",
+          "pause_min_seconds": 4.5,
+          "pause_weight": 0,
+          "min_minutes": 5
+        },
+        {
+          "text": "Over the next few minutes, we will use the feeling of breathing as a place to rest attention.",
+          "pause_min_seconds": 4.5,
+          "pause_weight": 0,
+          "min_minutes": 5
+        },
+        {
+          "text": "There is nothing you need to force, and nowhere special to reach.",
+          "pause_min_seconds": 4.5,
+          "pause_weight": 0,
+          "min_minutes": 5
+        },
+        {
+          "text": "Begin with the clearest feeling of contact.",
+          "pause_min_seconds": 4.5,
+          "pause_weight": 0,
+          "min_minutes": 10
+        },
+        {
+          "text": "Feel the weight of your body, and the support beneath you.",
+          "pause_min_seconds": 4.5,
+          "pause_weight": 0,
+          "min_minutes": 10
+        },
+        {
+          "text": "Notice that breathing is already happening.",
+          "pause_min_seconds": 4.5,
+          "pause_weight": 0,
+          "min_minutes": 5
+        },
+        {
+          "text": "Choose one place where the breath is easiest to feel.",
+          "pause_instruction": "For the next few moments, feel one breath from beginning to end. Then feel the next.",
+          "pause_min_seconds": 18,
+          "pause_weight": 2,
+          "min_minutes": 5
+        },
+        {
+          "text": "Sooner or later, attention will leave the breath.",
+          "pause_min_seconds": 4.5,
+          "pause_weight": 0,
+          "min_minutes": 5
+        },
+        {
+          "text": "It may move into a thought, a sound, a memory, or a plan.",
+          "pause_min_seconds": 4.5,
+          "pause_weight": 0,
+          "min_minutes": 10
+        },
+        {
+          "text": "That is expected.",
+          "pause_min_seconds": 4.5,
+          "pause_weight": 0,
+          "min_minutes": 5
+        },
+        {
+          "text": "The moment you realise it has wandered is a moment of awareness.",
+          "pause_min_seconds": 4.5,
+          "pause_weight": 0,
+          "min_minutes": 5
+        },
+        {
+          "text": "Acknowledge what took you away, without turning it into a problem.",
+          "pause_instruction": "For the next part, stay with the breath. Each time you notice wandering, return to the next breath you can feel.",
+          "pause_min_seconds": 30,
+          "pause_weight": 3,
+          "min_minutes": 5
+        },
+        {
+          "text": "Each return is one small act of training.",
+          "pause_min_seconds": 4.5,
+          "pause_weight": 0,
+          "min_minutes": 5
+        },
+        {
+          "text": "You do not need to measure an improvement while you sit here.",
+          "pause_instruction": "For a while, keep feeling the breath. Let each moment of noticing become a gentle return.",
+          "pause_min_seconds": 40,
+          "pause_weight": 4,
+          "min_minutes": 10
+        },
+        {
+          "text": "Now let the breath sit in a wider field.",
+          "pause_min_seconds": 4.5,
+          "pause_weight": 0,
+          "min_minutes": 10
+        },
+        {
+          "text": "Feel the whole body breathing.",
+          "pause_min_seconds": 4.5,
+          "pause_weight": 0,
+          "min_minutes": 10
+        },
+        {
+          "text": "Sounds may come and go.",
+          "pause_min_seconds": 4.5,
+          "pause_weight": 0,
+          "min_minutes": 10
+        },
+        {
+          "text": "Thoughts may form and dissolve.",
+          "pause_min_seconds": 4.5,
+          "pause_weight": 0,
+          "min_minutes": 10
+        },
+        {
+          "text": "Let all of that be present without following every movement.",
+          "pause_instruction": "Stay with this wider field. Let breath, sound, and thought come and go. Return to the body whenever you are carried away.",
+          "pause_min_seconds": 50,
+          "pause_weight": 5,
+          "min_minutes": 10
+        },
+        {
+          "text": "For the next part, I will say less.",
+          "pause_min_seconds": 4.5,
+          "pause_weight": 0,
+          "min_minutes": 10
+        },
+        {
+          "text": "Let the practice become your own.",
+          "pause_instruction": "For the next part, practise on your own. Rest with the breath. Notice wandering. Then begin again, gently and deliberately.",
+          "pause_min_seconds": 70,
+          "pause_weight": 7,
+          "min_minutes": 10
+        },
+        {
+          "text": "Now allow your attention to widen.",
+          "pause_min_seconds": 4.5,
+          "pause_weight": 0,
+          "min_minutes": 5
+        },
+        {
+          "text": "Notice the room, or the space around you.",
+          "pause_min_seconds": 4.5,
+          "pause_weight": 0,
+          "min_minutes": 10
+        },
+        {
+          "text": "Feel the whole body again.",
+          "pause_min_seconds": 4.5,
+          "pause_weight": 0,
+          "min_minutes": 5
+        },
+        {
+          "text": "You did not need a blank mind. You practised noticing, and choosing to return.",
+          "pause_min_seconds": 4.5,
+          "pause_weight": 0,
+          "min_minutes": 5
+        },
+        {
+          "text": "During the day, one ordinary breath can be enough to make that same movement again.",
+          "pause_min_seconds": 0,
+          "pause_weight": 0,
+          "min_minutes": 5
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "Posture and choice",
+      "objective": "Find an alert, workable posture and learn that the anchor can be changed.",
+      "practice": "posture",
+      "status": "planned"
+    },
+    {
+      "day": 3,
+      "title": "Feeling one breath",
+      "objective": "Stay with the direct sensations of breathing.",
+      "practice": "breath_anchor",
+      "status": "planned"
+    },
+    {
+      "day": 4,
+      "title": "The wandering mind",
+      "objective": "Recognise common forms of wandering without blame.",
+      "practice": "breath_anchor",
+      "status": "planned"
+    },
+    {
+      "day": 5,
+      "title": "Effort and ease",
+      "objective": "Use enough effort to stay present without straining.",
+      "practice": "breath_anchor",
+      "status": "planned"
+    },
+    {
+      "day": 6,
+      "title": "The body as ground",
+      "objective": "Use body contact and sensation as an anchor.",
+      "practice": "body_awareness",
+      "status": "planned"
+    },
+    {
+      "day": 7,
+      "title": "Listening",
+      "objective": "Use sound as a present-moment anchor.",
+      "practice": "sound_awareness",
+      "status": "planned"
+    },
+    {
+      "day": 8,
+      "title": "Ordinary discomfort",
+      "objective": "Meet mild discomfort with curiosity and choice.",
+      "practice": "body_awareness",
+      "status": "planned"
+    },
+    {
+      "day": 9,
+      "title": "A little more space",
+      "objective": "Practise with longer periods of silence.",
+      "practice": "breath_anchor",
+      "status": "planned"
+    },
+    {
+      "day": 10,
+      "title": "Taking it with you",
+      "objective": "Use a short return during ordinary life.",
+      "practice": "daily_life",
+      "status": "planned"
+    },
+    {
+      "day": 11,
+      "title": "Narrow and wide",
+      "objective": "Move between focused and wider attention.",
+      "practice": "attention_scope",
+      "status": "planned"
+    },
+    {
+      "day": 12,
+      "title": "The whole breathing body",
+      "objective": "Feel breathing as a whole-body process.",
+      "practice": "body_awareness",
+      "status": "planned"
+    },
+    {
+      "day": 13,
+      "title": "Thoughts as events",
+      "objective": "Notice thoughts as experiences rather than instructions.",
+      "practice": "noting",
+      "status": "planned"
+    },
+    {
+      "day": 14,
+      "title": "Pleasant, unpleasant, neutral",
+      "objective": "Notice the first tone of an experience.",
+      "practice": "feeling_tone",
+      "status": "planned"
+    },
+    {
+      "day": 15,
+      "title": "Reacting and responding",
+      "objective": "Notice the space before an automatic response.",
+      "practice": "response_space",
+      "status": "planned"
+    },
+    {
+      "day": 16,
+      "title": "Walking with attention",
+      "objective": "Bring attention into movement and contact.",
+      "practice": "walking",
+      "status": "ready",
+      "speech_tempo": 1.0,
+      "opening_silence_seconds": 5.0,
+      "evidence_card_ids": [
+        "attention-return-001"
+      ],
+      "soundscape": "data/files/Nervous System Reset  432 Hz + Theta Wave Ambient Meditation Music for Deep Calm.mp3",
+      "min_session_minutes": 5,
+      "max_session_minutes": 20,
+      "script_blocks": [
+        {
+          "text": "Welcome.",
+          "pause_min_seconds": 3.0,
+          "pause_weight": 0,
+          "min_minutes": 5
+        },
+        {
+          "text": "Begin walking at a pace that feels natural and easy.",
+          "pause_min_seconds": 4.5,
+          "pause_weight": 0,
+          "min_minutes": 5
+        },
+        {
+          "text": "Let your arms hang loosely at your sides.",
+          "pause_min_seconds": 4.5,
+          "pause_weight": 0,
+          "min_minutes": 10
+        },
+        {
+          "text": "Or rest your hands wherever they feel comfortable.",
+          "pause_min_seconds": 4.5,
+          "pause_weight": 0,
+          "min_minutes": 10
+        },
+        {
+          "text": "Let your shoulders drop, and allow your face to soften.",
+          "pause_min_seconds": 4.5,
+          "pause_weight": 0,
+          "min_minutes": 5
+        },
+        {
+          "text": "Keep your gaze soft, resting somewhere ahead of you.",
+          "pause_min_seconds": 4.5,
+          "pause_weight": 0,
+          "min_minutes": 5
+        },
+        {
+          "text": "You can change your pace at any point if your body needs to.",
+          "pause_min_seconds": 4.5,
+          "pause_weight": 0,
+          "min_minutes": 5
+        },
+        {
+          "text": "Over the next few minutes, we will use the feeling of walking as a place to rest attention.",
+          "pause_min_seconds": 4.5,
+          "pause_weight": 0,
+          "min_minutes": 5
+        },
+        {
+          "text": "There is nothing you need to force, and nowhere special to reach.",
+          "pause_min_seconds": 4.5,
+          "pause_weight": 0,
+          "min_minutes": 5
+        },
+        {
+          "text": "Begin with the clearest feeling of contact.",
+          "pause_min_seconds": 4.5,
+          "pause_weight": 0,
+          "min_minutes": 10
+        },
+        {
+          "text": "Feel the ground meet each foot, step after step.",
+          "pause_min_seconds": 4.5,
+          "pause_weight": 0,
+          "min_minutes": 10
+        },
+        {
+          "text": "Feel the weight move from one foot to the other.",
+          "pause_min_seconds": 4.5,
+          "pause_weight": 0,
+          "min_minutes": 10
+        },
+        {
+          "text": "Notice the rhythm of your steps.",
+          "pause_min_seconds": 4.5,
+          "pause_weight": 0,
+          "min_minutes": 5
+        },
+        {
+          "text": "Choose one place in the walking where the contact is easiest to feel.",
+          "pause_instruction": "For the next few moments, feel each step from beginning to end. Then feel the next.",
+          "pause_min_seconds": 18,
+          "pause_weight": 2,
+          "min_minutes": 5
+        },
+        {
+          "text": "Sooner or later, attention will leave the walking.",
+          "pause_min_seconds": 4.5,
+          "pause_weight": 0,
+          "min_minutes": 5
+        },
+        {
+          "text": "It may move into a thought, a sound, a memory, or a plan.",
+          "pause_min_seconds": 4.5,
+          "pause_weight": 0,
+          "min_minutes": 10
+        },
+        {
+          "text": "That is expected.",
+          "pause_min_seconds": 4.5,
+          "pause_weight": 0,
+          "min_minutes": 5
+        },
+        {
+          "text": "The moment you realise it has wandered is a moment of awareness.",
+          "pause_min_seconds": 4.5,
+          "pause_weight": 0,
+          "min_minutes": 5
+        },
+        {
+          "text": "Acknowledge what took you away, without turning it into a problem.",
+          "pause_instruction": "For the next part, stay with the walking. Each time you notice wandering, return to the next step you can feel.",
+          "pause_min_seconds": 30,
+          "pause_weight": 3,
+          "min_minutes": 5
+        },
+        {
+          "text": "Each return is one small act of training.",
+          "pause_min_seconds": 4.5,
+          "pause_weight": 0,
+          "min_minutes": 5
+        },
+        {
+          "text": "You do not need to measure an improvement while you walk.",
+          "pause_instruction": "For a while, keep feeling each step. Let each moment of noticing become a gentle return.",
+          "pause_min_seconds": 40,
+          "pause_weight": 4,
+          "min_minutes": 10
+        },
+        {
+          "text": "Now let the walking rest in a wider field.",
+          "pause_min_seconds": 4.5,
+          "pause_weight": 0,
+          "min_minutes": 10
+        },
+        {
+          "text": "Feel the whole body moving as you walk.",
+          "pause_min_seconds": 4.5,
+          "pause_weight": 0,
+          "min_minutes": 10
+        },
+        {
+          "text": "Feel the air on your skin.",
+          "pause_min_seconds": 4.5,
+          "pause_weight": 0,
+          "min_minutes": 10
+        },
+        {
+          "text": "Sounds may come and go.",
+          "pause_min_seconds": 4.5,
+          "pause_weight": 0,
+          "min_minutes": 10
+        },
+        {
+          "text": "Thoughts may form and dissolve.",
+          "pause_min_seconds": 4.5,
+          "pause_weight": 0,
+          "min_minutes": 10
+        },
+        {
+          "text": "Let all of that be present without following every movement.",
+          "pause_instruction": "Stay with this wider field. Let step, sound, and thought come and go. Return to the body whenever you are carried away.",
+          "pause_min_seconds": 50,
+          "pause_weight": 5,
+          "min_minutes": 10
+        },
+        {
+          "text": "For the next part, I will say less.",
+          "pause_min_seconds": 4.5,
+          "pause_weight": 0,
+          "min_minutes": 10
+        },
+        {
+          "text": "Let the practice become your own.",
+          "pause_instruction": "For the next part, practise on your own. Rest with the walking. Notice wandering. Then begin again, gently and deliberately.",
+          "pause_min_seconds": 70,
+          "pause_weight": 7,
+          "min_minutes": 10
+        },
+        {
+          "text": "Now allow your attention to widen.",
+          "pause_min_seconds": 4.5,
+          "pause_weight": 0,
+          "min_minutes": 5
+        },
+        {
+          "text": "Notice the space around you.",
+          "pause_min_seconds": 4.5,
+          "pause_weight": 0,
+          "min_minutes": 10
+        },
+        {
+          "text": "Feel the whole body again.",
+          "pause_min_seconds": 4.5,
+          "pause_weight": 0,
+          "min_minutes": 5
+        },
+        {
+          "text": "You did not need a blank mind. You practised noticing, and choosing to return.",
+          "pause_min_seconds": 4.5,
+          "pause_weight": 0,
+          "min_minutes": 5
+        },
+        {
+          "text": "During the day, one ordinary step can be enough to make that same movement again.",
+          "pause_min_seconds": 0,
+          "pause_weight": 0,
+          "min_minutes": 5
+        }
+      ]
+    },
+    {
+      "day": 17,
+      "title": "A kinder return",
+      "objective": "Change the tone used when beginning again.",
+      "practice": "self_compassion",
+      "status": "planned"
+    },
+    {
+      "day": 18,
+      "title": "Staying a little longer",
+      "objective": "Extend quiet practice without forcing it.",
+      "practice": "breath_anchor",
+      "status": "planned"
+    },
+    {
+      "day": 19,
+      "title": "Three steps back to now",
+      "objective": "Use a short practice during the day.",
+      "practice": "daily_life",
+      "status": "planned"
+    },
+    {
+      "day": 20,
+      "title": "Choosing an anchor",
+      "objective": "Choose the anchor that fits the present moment.",
+      "practice": "choice_of_anchor",
+      "status": "planned"
+    },
+    {
+      "day": 21,
+      "title": "Opening awareness",
+      "objective": "Let attention include the changing field of experience.",
+      "practice": "open_awareness",
+      "status": "planned"
+    },
+    {
+      "day": 22,
+      "title": "The right anchor now",
+      "objective": "Move anchors deliberately as conditions change.",
+      "practice": "choice_of_anchor",
+      "status": "planned"
+    },
+    {
+      "day": 23,
+      "title": "Making room for emotion",
+      "objective": "Notice emotion through manageable present sensations.",
+      "practice": "emotion_awareness",
+      "status": "planned"
+    },
+    {
+      "day": 24,
+      "title": "Uncertainty",
+      "objective": "Practise being present without solving the next moment.",
+      "practice": "open_awareness",
+      "status": "planned"
+    },
+    {
+      "day": 25,
+      "title": "Kindness",
+      "objective": "Practise a steady wish for wellbeing.",
+      "practice": "loving_kindness",
+      "status": "planned"
+    },
+    {
+      "day": 26,
+      "title": "Nature and movement",
+      "objective": "Use the wider environment as part of practice.",
+      "practice": "walking",
+      "status": "planned"
+    },
+    {
+      "day": 27,
+      "title": "A workable edge",
+      "objective": "Stay within an amount of difficulty that remains workable.",
+      "practice": "choice_of_anchor",
+      "status": "planned"
+    },
+    {
+      "day": 28,
+      "title": "Mostly quiet",
+      "objective": "Hold the practice with sparse guidance.",
+      "practice": "open_awareness",
+      "status": "planned"
+    },
+    {
+      "day": 29,
+      "title": "Guiding yourself",
+      "objective": "Lead a simple practice using the learned sequence.",
+      "practice": "self_guided",
+      "status": "planned"
+    },
+    {
+      "day": 30,
+      "title": "Your practice",
+      "objective": "Review the course and choose a sustainable next step.",
+      "practice": "integration",
+      "status": "planned"
+    }
+  ]
+}
